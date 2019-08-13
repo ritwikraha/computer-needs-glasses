@@ -1,2 +1,4 @@
-# Practioner-Bundle
-pyimagesearch being the godfather he is
+# Computer-Vision Practice
+- - - - 
+## Week 1
+Data Augmentation in effect
